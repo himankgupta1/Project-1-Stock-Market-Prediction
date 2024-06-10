@@ -9,7 +9,7 @@ This project was completed as part of an internship program at Nexus Info. The i
 
 - `LICENSE`: The license file for the project.
 - `ParkinsonNames.txt`: A text file containing the names of the attributes in the dataset.
-- `Parkinson_s Disease Prediction.ipynb`: A Jupyter Notebook containing the code for data analysis, preprocessing, model building, and evaluation.
+- `Parkinson_s Disease Prediction.ipynb`: A Jupyter Notebook containing the code for data analysis, preprocessing, model building, and evaluatio
 - `README.md`: This README file.
 - `parkinsons.data`: The dataset used for predicting Parkinson's disease.
 
