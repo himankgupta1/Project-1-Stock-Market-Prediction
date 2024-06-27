@@ -9,10 +9,7 @@ This project was completed as part of an internship program at Nexus Info. The i
 - [Dataset](#dataset)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -52,3 +49,17 @@ pip install numpy
 pip install scikit-learn
 pip install matplotlib
 pip install seaborn
+```
+## Installation
+1. Clone the repository:
+```
+git clone https://github.com/himankgupta1/stock-market-prediction.git
+```
+2. Navigate to the project directory:
+```
+cd stock-market-prediction
+```
+3. Install the required libraries
+
+## Results
+The results of the model evaluation are documented in the Jupyter Notebook. The model's performance is assessed using various metrics such as mean absolute error (MAE), mean squared error (MSE), and root mean squared error (RMSE). Additionally, visualizations are provided to help understand the model's behavior and predictions.
