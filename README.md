@@ -53,7 +53,7 @@ pip install seaborn
 ## Installation
 1. Clone the repository:
 ```
-git clone https://github.com/himankgupta1/stock-market-prediction.git
+git clone https://github.com/himankgupta1/Stock-Market-Prediction.git
 ```
 2. Navigate to the project directory:
 ```
