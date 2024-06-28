@@ -57,7 +57,7 @@ https://github.com/himankgupta1/Project-1-Stock-Market-Prediction.git
 ```
 2. Navigate to the project directory:
 ```
-cd Project-1-Stock-Market-Prediction.git
+cd Project-1-Stock-Market-Prediction
 ```
 3. Install the required libraries
 
