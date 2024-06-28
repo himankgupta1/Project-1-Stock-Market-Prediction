@@ -5,11 +5,11 @@ This project was completed as part of an internship program at Nexus Info. The i
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Results](#results)
+1. [Introduction](#introduction)
+2. [Dataset](#dataset)
+3. [Requirements](#requirements)
+4. [Installation](#installation)
+5. [Results](#results)
 
 ## Introduction
 
